@@ -12,7 +12,9 @@ Para executar o projeto : npm start
 
 Pacote inicial - npm create-react-app
 
-# Objetivo : Praticar e dar continuidade nos estudos de #react, no qual estou começando e #bootstrap
+# Objetivo : 
+
+Praticar e dar continuidade nos estudos de #react, no qual estou começando e #bootstrap
 
 - React (Utilizando o conceito de componentização e para fixar pequenos conceitos iniciais como o React Router e passagem de parâmetros, como utilizei no Header)
 - Bootstrap 4.1 via CDN
