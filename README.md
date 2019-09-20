@@ -1,6 +1,6 @@
 # WebSite React + Bootstrap
 
-Para abrir o projeto : npm start
+Para executar o projeto : npm start
 
 Utilizado: 
 
