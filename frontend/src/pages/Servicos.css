@@ -1,0 +1,34 @@
+.item-1{
+    animation: moveE-D 600ms;
+    animation-duration: 700ms;
+    animation-fill-mode: backwards;
+}
+.item-2{
+    animation: moveD-E 700ms;
+    animation-duration: 700ms;
+    animation-delay: 400ms;
+    animation-fill-mode: backwards;
+}
+.item-3{
+    animation: moveE-D 800ms;
+    animation-delay: 800ms;
+    animation-duration: 700ms;
+    animation-fill-mode: backwards;
+}
+
+@keyframes moveE-D {
+    from {
+        transform: translateX(-200%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveD-E {
+    from {
+        transform: translateX(200%);
+    } to {
+        transform: translateX(0);
+    }
+}

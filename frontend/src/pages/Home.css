@@ -1,0 +1,36 @@
+/* #campo-cards {
+    overflow: hidden;
+    animation: move 1200ms;
+}
+@keyframes move {
+    from {
+        transform: translateX(-70%);
+    } to {
+        transform: translateX(0);
+    }
+} */
+
+.card-1{
+    animation: fade 350ms;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+}
+.card-2{
+    animation: fade 400ms;
+    animation-delay: 0.7s;
+    animation-fill-mode: backwards;
+}
+.card-3{
+    animation: fade 600ms;
+    /* animation-duration: 00ms; */
+}
+
+@keyframes fade {
+    from {
+        transform: translateX(-1200px)
+    }
+    to {
+        transform: translateX(0)
+    }
+}
+

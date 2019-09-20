@@ -1,0 +1,14 @@
+#formulario {
+    overflow: hidden;
+    animation: move 500ms;
+    animation-fill-mode: backwards;
+}
+
+
+@keyframes move {
+    from {
+        transform: translateX(-70%)
+    } to {
+        transform: translateX(0)
+    }
+}
