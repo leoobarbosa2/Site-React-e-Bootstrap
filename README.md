@@ -4,14 +4,13 @@
 ![AeroDream](https://user-images.githubusercontent.com/54908803/65350183-83e98f80-dbbb-11e9-8f69-78e503d76b30.PNG)
 ![AeroDream2](https://user-images.githubusercontent.com/54908803/65350234-9fed3100-dbbb-11e9-917a-3d87bcda75b4.PNG)
 
-
-Site fictício
+ # Site fictício
 
 Para executar o projeto : npm start
 
 Utilizado: 
 
-Pacote inicial - npm create-react-app
+Pacote inicial <p>- npm create-react-app<p>
 
 Objetivo : Praticar e dar continuidade nos estudos de #react, no qual estou começando e #bootstrap
 
