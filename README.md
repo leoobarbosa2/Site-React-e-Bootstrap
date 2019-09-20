@@ -19,6 +19,6 @@ Pacote inicial - npm create-react-app
 - React (Utilizando o conceito de componentização e para fixar pequenos conceitos iniciais como o React Router e passagem de parâmetros, como utilizei no Header)
 - Bootstrap 4.1 via CDN
 - Css animation bem básico em alguns elementos
-Banco de imagens do https://pixabay.com/pt/
+- Banco de imagens do https://pixabay.com/pt/
 
 
