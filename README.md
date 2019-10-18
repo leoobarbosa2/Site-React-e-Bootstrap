@@ -11,7 +11,7 @@ Para executar o projeto : npm start
 
 # Objetivo : 
 
-Praticar e dar continuidade nos estudos de #react, no qual estou começando e #bootstrap
+Primeiros passos com React e utilização de Bootstrap
 
 # Utilizado: 
 
